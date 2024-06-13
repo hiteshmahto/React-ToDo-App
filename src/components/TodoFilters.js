@@ -24,8 +24,8 @@ export const TodoFilters = ({ todos, setFilteredTodos }) => {
   return (
     <div className="TodoFilters">
       <button onClick={handleSort}>Sort Alphabetically</button>
-      <button onClick={handleFilterCompleted}>Filter Completed</button>
-      <button onClick={handleFilterActive}>Filter Active</button>
+      <button onClick={handleFilterCompleted}>Completed Task</button>
+      <button onClick={handleFilterActive}>Active Task</button>
       <button id="redBtn" onClick={handleClearFilter}>
         Clear Filter
       </button>
