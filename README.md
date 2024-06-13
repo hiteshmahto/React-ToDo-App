@@ -49,6 +49,10 @@ You need to write the following commands on the terminal screen(in vscode) so th
 
 5. Open your web browser and visit `http://localhost:3000` to view the app.
 
+## Testing
+
+A [`testingGuidance.md`](/blob/main/testingGuidance.md) file has been added to this repository, providing detailed instructions on how to test the React To-Do App. Please refer to that file for guidance on setting up and running tests.
+
 ## Thanks
 
 Thank you for using the React To-Do App! If you have any feedback or suggestions, please feel free to reach out.
