@@ -51,7 +51,7 @@ You need to write the following commands on the terminal screen(in vscode) so th
 
 ## Testing
 
-A [`testingGuidance.md`](/blob/main/testingGuidance.md) file has been added to this repository, providing detailed instructions on how to test the React To-Do App. Please refer to that file for guidance on setting up and running tests.
+A [`testingGuidance.md`](/testingGuidance.md) file has been added to this repository, providing detailed instructions on how to test the React To-Do App. Please refer to that file for guidance on setting up and running tests.
 
 ## Thanks
 
